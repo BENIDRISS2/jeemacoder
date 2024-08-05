@@ -67,7 +67,7 @@ function Tapp() {
     return (
 <div style={{ padding: '10px', borderRadius: '5px',width:"100%" }}>
     <form
-        style={{ backgroundColor: 'orange', width:"40%",padding: '30px', borderRadius: '9px', marginLeft: "30%" ,shadow:'20'}}
+        style={{ backgroundColor: 'orange', width:"75%",padding: '30px', borderRadius: '9px', marginLeft: "12%" ,shadow:'20'}}
         onSubmit={handleSubmit}
     >
         <div className="mb-3 d-sm-flex">
